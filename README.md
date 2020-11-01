@@ -1,2 +1,2 @@
-# vcd-detector
-Detector of Visual Cognitive Deception in Ethereum Smart Contracts
+# esead
+Ethereum Social Engineering Attack Detector (ESEAD)
